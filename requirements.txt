@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+aiomysql
+httpx
+authlib
+python-jose[cryptography]
+requests
+pytest
+pytest-asyncio
