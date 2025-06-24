@@ -134,3 +134,12 @@ docker-compose exec backend pytest
 | MySQL + aiomysql   | Lightweight, popular async DB stack       |
 | Docker Compose     | Easy containerized dev environment        |
 | Ticketmaster API   | Rich real-world data source for demo use  |
+
+
+##screenshots from swagger showing running functionalities:
+
+
+https://github.com/user-attachments/assets/a2abeb6a-1b19-4efc-8dea-0690ca19f437
+
+![Application Details and 11 more pages - Personal - Microsoft​ Edge 6_23_2025 10_52_44 PM](https://github.com/user-attachments/assets/dd7812d1-a2fe-4c3d-8891-ceab7aceee87)
+![Application Details and 11 more pages - Personal - Microsoft​ Edge 6_23_2025 10_49_01 PM](https://github.com/user-attachments/assets/d8a63f24-66a3-4fcd-8ab5-2fbebaa77f1e)
