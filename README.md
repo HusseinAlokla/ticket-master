@@ -138,8 +138,6 @@ docker-compose exec backend pytest
 
 ##screenshots from swagger showing running functionalities:
 
-
-https://github.com/user-attachments/assets/a2abeb6a-1b19-4efc-8dea-0690ca19f437
-
-![Application Details and 11 more pages - Personal - Microsoft​ Edge 6_23_2025 10_52_44 PM](https://github.com/user-attachments/assets/dd7812d1-a2fe-4c3d-8891-ceab7aceee87)
-![Application Details and 11 more pages - Personal - Microsoft​ Edge 6_23_2025 10_49_01 PM](https://github.com/user-attachments/assets/d8a63f24-66a3-4fcd-8ab5-2fbebaa77f1e)
+![Ticketmaster Backend API - Swagger UI and 12 more pages - Personal - Microsoft​ Edge 6_24_2025 3_35_34 AM](https://github.com/user-attachments/assets/5683ae86-e983-484d-a26e-9056573ce93f)
+![Ticketmaster Backend API - Swagger UI and 12 more pages - Personal - Microsoft​ Edge 6_24_2025 3_35_13 AM](https://github.com/user-attachments/assets/d7ee62c0-6d91-458c-aef7-5f9f44b55e64)
+![Ticketmaster Backend API - Swagger UI and 12 more pages - Personal - Microsoft​ Edge 6_24_2025 3_34_53 AM](https://github.com/user-attachments/assets/88fa7201-1c28-4928-afc1-4f7a5d20349f)
