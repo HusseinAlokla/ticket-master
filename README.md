@@ -59,6 +59,10 @@ API will be available at:
 
 ---
 
+## Event Fetching Strategy
+We use an on-demand fetching strategy for loading events from the Ticketmaster Discovery API. The /events/fetch route can be triggered manually to retrieve and persist new event data. This allows flexibility during development, avoids unnecessary API calls, and simplifies storage management.
+
+
 ## 📑 API Usage
 
 ### Public Endpoints
